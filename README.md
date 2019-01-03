@@ -4,7 +4,7 @@
 支持UITextField, UITextView, UITableView, inputAccessoryView  
 
 安装:  
-CocoaPods: pod 'JMKeyboardManager'  
+CocoaPods方式:  pod 'JMKeyboardManager'  
 
 使用:  
   [JMKeyboardManager shareManager].enable = YES;  
